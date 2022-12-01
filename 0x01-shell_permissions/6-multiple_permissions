@@ -1,1 +1,2 @@
-whoami
+#!/bin/bash
+chmod u+x g+x o+x
