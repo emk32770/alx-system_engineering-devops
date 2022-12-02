@@ -1,1 +1,2 @@
-whoami
+#!/bin/bash
+chomod 007 hello
